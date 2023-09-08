@@ -1,0 +1,14 @@
+numpy
+scipy
+torch 
+torchvision 
+lightning
+tensorboardX 
+easydict  
+scikit-image 
+tqdm 
+SharedArray 
+watermark
+matplotlib
+torchsummary
+loguru
