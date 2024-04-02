@@ -1,6 +1,6 @@
 # Anatomical-Context-Loss
 
-This is an implementation for the Anatomical Context Loss from the paper: [Deep Anatomical Context Feature Learning for
+This is an unofficial implementation for the Anatomical Context Loss from the paper: [Deep Anatomical Context Feature Learning for
 Cephalometric Landmark Detection](https://pubmed.ncbi.nlm.nih.gov/32750939/) (2021).
 ## How to Run
 
